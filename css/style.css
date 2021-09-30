@@ -1,0 +1,23 @@
+h1 {
+    color: gold;
+}
+img {
+    width: 300px;
+    border: lime dotted 3px;
+}
+
+img:hover {
+    border: lime solid 3px;
+}
+
+
+.red {
+    color: red;
+}
+.monospace {
+    font-family: monospace;
+    font-size: 35px;
+}
+#blue {
+    color: blue;
+}
